@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Raj</h1>
-<h3 align="center">Passionate about competitive programming and full-stack development, I thrive on solving complex problems and building robust applications.</h3>
+<h3 align="center">Competitive programmer and Full Stack Developer, I thrive on solving complex problems and building robust applications.</h3>
 
 - 🔭 I’m currently working on [AI Quiz Generator](https://github.com/Roshan-Raj23/Quiz-Generator)
 

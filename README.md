@@ -7,17 +7,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pzS4J3GoreUJJoC5s2otwL7AAIUkR3-B/view](https://drive.google.com/file/d/1pzS4J3GoreUJJoC5s2otwL7AAIUkR3-B/view)
 
-<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/roshanraj1543" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roshanraj1543" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/roshanraj1543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roshanraj1543" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/r_raj1543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r_raj1543" height="30" width="40" /></a>
 </p>
--->
 
-## 🌐 Connect with me:
-[![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg)](https://codeforces.com/profile/roshanraj1543) [![Codechef](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg)](https://www.codechef.com/users/roshanraj1543) [![Leetcode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/r_raj1543) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-raj7/)
 
 
 

@@ -9,9 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/roshanraj1543" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roshanraj1543" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/roshanraj1543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roshanraj1543" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/roshanraj1543" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roshanraj1543" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/r_raj1543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r_raj1543" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshan-raj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-raj7" height="30" width="40" /></a>
 </p>
 
 
